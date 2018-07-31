@@ -20,3 +20,19 @@ html {
 
 /* Write your solution here */
 
+@media screen and (max-width: 1090px) and (min-width: 642px){
+  #dolphin{
+    position: absolute;
+    top: 0;
+    left: 390px;
+    transform: rotate(-90deg);
+  }
+}
+@media screen and (max-width: 641px){
+  #dolphin {
+  position: absolute;
+  top: 400px;
+  right: 0;
+}
+}
+

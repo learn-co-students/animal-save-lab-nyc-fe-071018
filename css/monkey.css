@@ -9,4 +9,10 @@ html {
 }
 
 /* Write your solution here */
-
+@media screen and (max-width: 1200px) and (min-width: 400px) {
+#monkey
+{
+top:-100px;
+}
+  
+}
